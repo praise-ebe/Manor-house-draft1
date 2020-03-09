@@ -257,20 +257,3 @@ We are going to build three user screens for manor house app.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
